@@ -1,0 +1,8 @@
+xarray==2023.2.0
+numpy==1.23.1
+matplotlib==3.5.2
+pandas==1.4.3
+fiona==1.8.22
+shapely==1.8.5.post1
+pyproj==3.3.1
+datetime==5.5
